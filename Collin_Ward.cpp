@@ -210,7 +210,7 @@ int main()
     // change your the following id into your banner id
     int banner_id;
     // #8#BEGIN# DO NOT MODIFY THIS COMMENT LINE!
-    banner_id = 904158384;
+    banner_id = ;
     // #8#END# DO NOT MODIFY THIS COMMENT LINE!
     printf("banner_id: %d\n", banner_id);
     Init();
